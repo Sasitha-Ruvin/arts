@@ -1,0 +1,33 @@
+[
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art1.jpg",
+      "name": "The Throne", 
+      "price": 15.99
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art2.jpg",
+      "name": "Duel of Fates", 
+      "price": 18.99
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art3.jpg",
+      "name": "The Argonarth", 
+      "price": 19.59
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art4.jpg",
+      "name": "Winter", 
+      "price": 15.99
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art5.jpg",
+      "name": "The Red Keep", 
+      "price": 25.99
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/Sasitha-Ruvin/arts/main/art6.jpg",
+      "name": "Rising Sun", 
+      "price": 12.99
+    }
+  ]
+  
